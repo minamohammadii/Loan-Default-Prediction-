@@ -28,6 +28,16 @@ Loan default prediction is a critical task for financial institutions to assess 
 4. **Modeling:** Built and evaluated multiple machine learning models, including KNN, Decision Tree, Logistic Regression, Random Forest, Naive Bayes (Gaussian, Multinomial, Bernoulli), and XGBoost.
 5. **Explainable AI (XAI):** Utilized SHAP values to interpret the model's predictions and understand the impact of individual features on loan default risks.
 
+## License
+
+### Code
+
+The code in this repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Data and Other Non-Code Assets
+
+The data and other non-code assets in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. See the [LICENSE-data](LICENSE-data) file for details.
+
 ## Contact
 
 For questions or support, please reach out to [Arian Mohammadi](mailto:arianmohammadi6464@gmail.com).
