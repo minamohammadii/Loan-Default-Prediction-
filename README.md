@@ -21,6 +21,7 @@ This project focuses on predicting loan default risks using a comprehensive mach
 ## Contributors
 - [Arian Mohammadi](https://github.com/arianmohammadi)
 - [Mina Mohammadi](https://github.com/minamohammadii)
+
 This project was collaboratively developed by [Arian Mohammadi](https://github.com/arianmohammadi) and [Mina Mohammadi](https://github.com/minamohammadii). We worked together to create a machine-learning pipeline for loan default prediction and enhanced model interpretability using SHAP and LIME.
 
 ## Project Overview
