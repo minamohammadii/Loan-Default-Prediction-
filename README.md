@@ -38,6 +38,10 @@ The code in this repository is licensed under the MIT License. See the [LICENSE]
 
 The data and other non-code assets in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. See the [LICENSE-data](LICENSE-data) file for details.
 
+## Contributors
+- [Arian Mohammadi](https://github.com/arianmohammadi)
+- [Mina Mohammadi](https://github.com/minamohammadi)
+- 
 ## Contact
 
 For questions or support, please reach out to [Arian Mohammadi](mailto:arianmohammadi6464@gmail.com).
