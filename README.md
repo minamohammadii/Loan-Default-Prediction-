@@ -40,7 +40,7 @@ The data and other non-code assets in this repository are licensed under the Cre
 
 ## Contributors
 - [Arian Mohammadi](https://github.com/arianmohammadi)
-- [Mina Mohammadi](https://github.com)
+- [Mina Mohammadi](https://github.com/minamohammadii)
 - 
 ## Contact
 
