@@ -34,6 +34,23 @@ Loan default prediction is a critical task for financial institutions to assess 
 4. **Modeling:** Built and evaluated multiple machine learning models, including KNN, Decision Tree, Logistic Regression, Random Forest, Naive Bayes (Gaussian, Multinomial, Bernoulli), and XGBoost.
 5. **Explainable AI (XAI):** Utilized SHAP values to interpret the model's predictions and understand the impact of individual features on loan default risks.
 
+## Dataset
+
+The dataset used for this project is sourced from Kaggle. It contains comprehensive information on loan borrowers, including various features that are crucial for predicting loan default risks.
+
+- **Dataset Name:** [Loan Default Prediction Dataset](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior)
+- **Source:** Kaggle
+- **Link to Dataset:** [Loan Default Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior)
+
+The dataset includes features such as:
+- Borrower demographic information
+- Loan amount and terms
+- Credit history
+- Financial reserves
+- Loan repayment history
+
+You can download the dataset directly from Kaggle using the link provided above.
+
 
 ## License
 
@@ -48,7 +65,7 @@ The data and other non-code assets in this repository are licensed under the Cre
 
 ## Contact
 
-For questions or support, please reach out to [Arian Mohammadi](mailto:arianmohammadi6464@gmail.com).
+For questions or support, please reach out to [Mina Mohammadi](mailto:mina.mohamadi1996mm@gmail.com).
 
  
 
